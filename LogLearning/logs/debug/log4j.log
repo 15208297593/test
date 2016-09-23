@@ -1,0 +1,6 @@
+2016-09-14 12:34:49,046 INFO [com.dengqi.org.JdbcSequence] - execute here!
+2016-09-14 12:42:39,634 INFO [com.dengqi.org.JdbcSequence] - execute here!
+2016-09-14 12:44:07,028 INFO [com.dengqi.org.JdbcSequence] - execute here!
+2016-09-14 12:44:40,513 INFO [com.dengqi.org.JdbcSequence] - execute here!
+2016-09-14 12:45:18,421 INFO [com.dengqi.org.JdbcSequence] - execute here!
+2016-09-14 12:52:24,650 ERROR [com.dengqi.org.JdbcSequence] - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
